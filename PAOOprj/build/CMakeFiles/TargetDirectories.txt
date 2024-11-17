@@ -1,0 +1,5 @@
+C:/Users/Andrei/Desktop/PAOOprj/build/CMakeFiles/Array.dir
+C:/Users/Andrei/Desktop/PAOOprj/build/CMakeFiles/package.dir
+C:/Users/Andrei/Desktop/PAOOprj/build/CMakeFiles/package_source.dir
+C:/Users/Andrei/Desktop/PAOOprj/build/CMakeFiles/edit_cache.dir
+C:/Users/Andrei/Desktop/PAOOprj/build/CMakeFiles/rebuild_cache.dir
